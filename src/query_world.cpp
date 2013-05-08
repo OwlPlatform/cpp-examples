@@ -28,17 +28,9 @@
 #include <iostream>
 
 #include <owl/netbuffer.hpp>
-//#include <owl/solver_aggregator_connection.hpp>
-//#include <owl/solver_world_connection.hpp>
-//#include <owl/sample_data.hpp>
-//#include <owl/world_model_protocol.hpp>
 #include <owl/grail_types.hpp>
 
 #include <owl/client_world_connection.hpp>
-
-//using namespace aggregator_solver;
-
-//using std::pair;
 
 using world_model::Attribute;
 using world_model::grail_time;
